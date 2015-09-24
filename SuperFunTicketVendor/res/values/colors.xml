@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="header_color">#E30121</color>
+    <color name="background_color">#FDEFD7</color>
+    <color name="gift_color">#2200F6</color>
+    <color name ="list_back">#FEF6E8</color>
+    <color name="points_color">#CD071F</color>
+    <color name="expand_item_color">#6D6C71</color>
+    <color name="popup_color">#FDEFD7</color>
+    
+</resources>

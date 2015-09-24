@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SuperFun Tickets</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_back">Back</string>
+    <string name="header_name">Vendor App</string>
+
+    <!-- Login -->
+    <string name="register">Register</string>
+    <string name="forgot_password">Forgot Password?</string>
+
+    <!-- Sign up -->
+    <string name="signup_string">Sign Up</string>
+    <string name="uuid_num">UUID Number</string>
+    <string name="sim_num">SIM Number</string>
+    <string name="password_str">Password</string>
+    <string name="confirm_code">Confirmation Code</string>
+    <string name="confirm_password_str">Confirm Password</string>
+    <string name="i_agree">I Agree on </string>
+    <string name="terms">Terms of Service</string>
+    <string name="privacy">Privacy Policy</string>
+
+    <!-- Home -->
+    <string name="how_it_works">How it Works?</string>
+    <string name="participating_comp">Participating Companies</string>
+    <string name="change_lang">Change language</string>
+    <string name="dont_have">Don\'t Have an Account?</string>
+
+    <!-- Settings -->
+    <string name="submit">Submit</string>
+    <string name="change_password">Change Password</string>
+    <string name="choose_language">Choose langauge</string>
+    <string name="english">English</string>
+    <string name="arabic">Arabic</string>
+    <string name="change">Change</string>
+    <string name="log_out">Log Out</string>
+    <string name="old_pwd">Old Password</string>
+    <string name="new_pwd">New Password</string>
+    <string name="confirm_pwd">Confirm New Password</string>
+
+    <!-- Points collector -->
+
+    <string name="mob_number">Mobile Number</string>
+    <string name="total_tickets">Total Tickets</string>
+    <string name="branch_code">Branch Code</string>
+    <string name="timer">Timer</string>
+    <string name="seconds">Seconds</string>
+    <string name="done">Done</string>
+
+    <!-- Contact us -->
+    <string name="hot_line">Hot Line</string>
+    <string name="email">Email</string>
+    <string name="website">Web Site</string>
+    <string name="whats_app">WhatsApp</string>
+
+    <!-- Mobile verification -->
+    <string name="mob_verify">You will receieve a SMS to verify your Mobile Number</string>
+    <string name="not_receive_sms">Didn\'t receive the SMS? &#8230; </string>
+    <string name="send_again">Send Again</string>
+    <string name="confirm">Confirm</string>
+    <string name="sms_screen_name">SMS Confirmation</string>
+
+    <!-- Buy tickets -->
+    <string name="buy_ticket_string">For Each 1$ you Pay \n You Get 3$ games &amp; 10 Gift Points</string>
+    <string name="amount">Amount</string>
+    <string name="buy">Buy</string>
+
+    <!-- Tickets n Points -->
+    <string name="total_points">Total Points</string>
+    <string name="points">Points</string>
+    <string name="worth">Worth</string>
+    <string name="collect_tickets">Collect</string>
+    <string name="collect_points">Collect Points</string>
+
+    <!-- Forgot password -->
+    <string name="enter_mob">Please enter your Mobile Number</string>
+    <string name="forgot_pass">Forgot Password</string>
+
+    <!-- Tabs -->
+
+    <string name="ticekts_tab">Buy Tickets</string>
+    <string name="history_tab">History</string>
+    <string name="companies_tab">Collect</string>
+
+    <!-- Popup window -->
+    <string name="settings_menu">Settings</string>
+    <string name="gift_mennu">Gifts List</string>
+    <string name="companies_menu">Participating Companies</string>
+    <string name="terms_menu">Terms &amp; Conditions</string>
+    <string name="privacy_menu">Privacy Policy</string>
+    <string name="contact_menu">Contact Us</string>
+    
+    <string name="points_n_tickets">Tickets &amp; Points</string>
+    <string name="ticket_collector">Tickets Collector</string>
+    <string name="daily_report">Daily Report</string>
+    <string name="points_collector">Points Collector</string>
+    
+    <string name="please_wait">Please wait&#8230;</string>
+    <string name="network_connection">Please check your network connection</string>
+
+</resources>

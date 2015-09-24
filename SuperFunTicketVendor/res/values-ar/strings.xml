@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">متعة فائقة التطبيق</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_back">Back</string>
+
+    <!-- Login -->
+    <string name="login_string">تسجيل الدخول</string>
+    <string name="forgot_password">هل نسيت كلمة المرور؟</string>
+
+    <!-- Sign up -->
+    <string name="signup_string">سجل</string>
+    <string name="mob_num">رقم الهاتف</string>
+    <string name="password_str">كلمة السر</string>
+    <string name="confirm_password_str">تأكيد كلمة السر</string>
+    <string name="i_agree">أوافق على </string>
+    <string name="terms">شروط الخدمة</string>
+    <string name="privacy">سياسة الخصوصية</string>
+
+    <!-- Home -->
+    <string name="how_it_works">كيف يعمل؟</string>
+    <string name="participating_comp">الشركات المشاركة</string>
+    <string name="change_lang">غير اللغة</string>
+    <string name="dont_have">لا تملك حسابا؟</string>
+
+    <!-- Settings -->
+    <string name="submit">عرض</string>
+    <string name="change_password">تغيير كلمة المرور</string>
+    <string name="choose_language">اختيار الناطقة</string>
+    <string name="english">الإنجليزية</string>
+    <string name="arabic">العربية</string>
+    <string name="change">تغيير</string>
+    <string name="log_out">خروج</string>
+    <string name="old_pwd">كلمة المرور القديمة</string>
+    <string name="new_pwd">كلمة سر جديدة</string>
+    <string name="confirm_pwd">تأكيد كلمة السر الجديدة</string>
+
+    <!-- Points collector -->
+
+    <string name="mob_number">رقم الهاتف</string>
+    <string name="total_tickets">مجموع التذاكر</string>
+    <string name="confirm_code">رمز التأكيد</string>
+    <string name="timer">مؤقت</string>
+    <string name="seconds">ثواني</string>
+    <string name="done">القيام به</string>
+
+    <!-- Contact us -->
+    <string name="hot_line">الخط الساخن</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="website">الموقع على شبكة الإنترنت</string>
+    <string name="whats_app">ماذا يكون التطبيق</string>
+
+    <!-- Mobile verification -->
+    <string name="mob_verify">سوف تستلم رسالة SMS للتحقق من رقم الهاتف الجوال الخاص بك</string>
+    <string name="not_receive_sms">لم تتلق SMS؟ &#8230; </string>
+    <string name="send_again">أعد الإرسال</string>
+    <string name="confirm">أكد</string>
+    <string name="sms_screen_name">تأكيد SMS</string>
+
+    <!-- Buy tickets -->
+    <string name="buy_ticket_string">لكل 1 $ الذي تدفعه \ ن تحصل على 3 دولارات ألعاب و أمبير؛ 10 هدية نقاط</string>
+    <string name="amount">مبلغ</string>
+    <string name="buy">شراء</string>
+
+    <!-- Tickets n Points -->
+    <string name="total_points">مجموع النقاط</string>
+    <string name="points">نقاط</string>
+    <string name="worth">قيمة</string>
+    <string name="collect_tickets">جمع تذاكر</string>
+    <string name="collect_points">جمع النقاط</string>
+
+    <!-- Forgot password -->
+    <string name="enter_mob">يرجى إدخال رقم الهاتف الجوال الخاص بك</string>
+    <string name="forgot_pass">نسيت كلمة المرور</string>
+
+    <!-- Tabs -->
+
+    <string name="ticekts_tab">شراء تذاكر</string>
+    <string name="history_tab">تاريخ</string>
+    <string name="companies_tab">جمع</string>
+
+    <!-- Popup window -->
+    <string name="settings_menu">الإعدادات</string>
+    <string name="gift_mennu">قائمة الهدايا</string>
+    <string name="companies_menu">الشركات المشاركة</string>
+    <string name="terms_menu">شروط و أمبير؛ الشروط</string>
+    <string name="privacy_menu">سياسة الخصوصية</string>
+    <string name="contact_menu">اتصل بنا</string>
+    <string name="points_n_tickets">تذاكر النقاط</string>
+    <string name="ticket_collector">قاطع التذاكر</string>
+    <string name="points_collector">نقطة جامع</string>
+    <string name="please_wait">يرجى الانتظار&#8230;</string>
+    <string name="network_connection">الرجاء التحقق من اتصال الشبكة</string>
+
+    <!-- Sign up/Login validations -->
+    <string name="mob_not_specified">رقم الجوال غير محدد</string>
+    <string name="pass_not_specified">كلمة السر غير محددة</string>
+    <string name="confirm_pass_not_specified">تأكيد كلمة السر غير محددة</string>
+    <string name="mob_length_valid">يجب أن يكون رقم الجوال 8 الطابع الطويل.</string>
+    <string name="pass_not_matched">كلمة المرور لا تتطابق</string>
+    <string name="international_codes">لا يسمح للرموز الدولية</string>
+    <string name="enter_amount">الرجاء إدخال كمية</string>
+    <string name="enter_pin">رقم سري غير محددة</string>
+    <string name="pin_send">دبوس إرسال بنجاح</string>
+    <string name="pin_verified">التحقق من رقم التعريف الشخصي بنجاح</string>
+    <string name="invalid_pin">دبوس صالح</string>
+    <string name="password_sent">إرسال كلمة المرور بنجاح إلى رقم هاتفك المحمول.</string>
+    <string name="old_pwd_not_valid">كلمة المرور القديمة غير صالحة</string>
+    <string name="pwd_not_matched">كلمة المرور الجديدة وتأكيد كلمة المرور لا يقابل</string>
+    <string name="old_pwd_not_specified">كلمة المرور القديمة غير محدد</string>
+    <string name="new_pwd_not_specified">كلمة سر جديدة غير محددة</string>
+    <string name="confirm_pwd_not_specified">تأكيد كلمة السر غير محددة</string>
+    <string name="password_changed">تغيير كلمة المرور بنجاح</string>
+    <string name="logout_successfully">خروج بنجاح</string>
+    <string name="com_branches">الفروع</string>
+    <string name="purchase_history">تاريخ الشراء</string>
+
+</resources>

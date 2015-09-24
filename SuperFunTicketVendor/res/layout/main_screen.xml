@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:id="@+id/content_frame"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/background_color" />
+
+    <LinearLayout
+        android:id="@+id/tabLayout"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="#C5AA87"
+        android:baselineAligned="false"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:weightSum="2" >
+
+        <Button
+            android:id="@+id/collectBtn"
+            android:layout_width="0dp"
+            android:layout_height="70dp"
+            android:layout_marginLeft="1dp"
+            android:layout_weight="1"
+           
+            android:background="@drawable/tab_selector"
+            android:text="@string/companies_tab"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/text_size16"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/historyBtn"
+            android:layout_width="0dp"
+            android:layout_height="70dp"
+            android:layout_marginLeft="1dp"
+            android:layout_weight="1"
+            android:background="@drawable/tab_selector"
+            android:text="@string/history_tab"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/text_size16"
+            android:textStyle="bold" />
+        
+    </LinearLayout>
+
+</LinearLayout>
